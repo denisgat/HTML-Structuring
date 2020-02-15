@@ -56,6 +56,12 @@ header {
   flex-flow: row wrap;
 }
 
+header img{
+  background-image: Cover;
+  margin: auto;
+  max-height: 100vh;
+}
+
 body > * {
   background-color: red;
   padding: 1%;
